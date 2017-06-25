@@ -12,9 +12,9 @@ public class ZipMain {
 	public static void main(String[] args) 
 	{
 		Zip zip = new Zip();
-		zip.unzip("/Users/xxxx/Downloads/国家局信息采集考核.zip", "/Users/liguangwen/Downloads","GBK");
+		zip.unzip("/Users/xxxx/Downloads/某某某.zip", "/Users/liguangwen/Downloads","GBK");
 		
-		//zip.zip("/Users/xxxxx/Downloads/国家局信息采集考核","GBK");
+		//zip.zip("/Users/xxxxx/Downloads/某某某","GBK");
 		
 	}
 
